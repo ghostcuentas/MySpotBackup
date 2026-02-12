@@ -1,13 +1,13 @@
 config = {
-    "port": 8080,
-    "uri": "https://ghostcuentas.github.io/MySpotBackup",
-    "login_url": "https://ghostcuentas.github.io/MySpotBackup/login",
-    "callback_uri": "https://ghostcuentas.github.io/MySpotBackup/callback",
-    "client_id": "1fb9edefb7c244e1befa19704ce3433d",
-    "slowdown_import": 100,
-    "slowdown_export": 100
+  "port": 8080,
+  "uri": "https://ghostcuentas.github.io/MySpotBackup",
+  "login_url": "https://ghostcuentas.github.io/MySpotBackup/login",
+  "callback_uri": "https://ghostcuentas.github.io/MySpotBackup/callback",
+  "client_id": "TU_CLIENT_ID_DE_SPOTIFY",
+  "slowdown_import": 100,
+  "slowdown_export": 100
 }
 
 if(module){
-    module.exports = config;
+  module.exports = config;
 }

@@ -1,9 +1,9 @@
 config = {
     "port": 8080,
-    "uri": "http://youripaddress:8080",
-    "login_url": "http://youripaddress:8080/login",
-    "callback_uri": "http://youripaddress:8080/callback",
-    "client_id": "yourclientid",
+    "uri": "https://ghostcuentas.github.io/MySpotBackup",
+    "login_url": "https://ghostcuentas.github.io/MySpotBackup/login",
+    "callback_uri": "https://ghostcuentas.github.io/MySpotBackup/callback",
+    "client_id": "1fb9edefb7c244e1befa19704ce3433d",
     "slowdown_import": 100,
     "slowdown_export": 100
 }
